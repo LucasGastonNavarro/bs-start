@@ -1,0 +1,15 @@
+footer {
+    background: linear-gradient(to right,  #102b3a , #25657e ,  #518da5);
+}
+
+#boton {
+    color: green;
+}
+
+#bg {
+    text-align: justify;
+}
+
+#form {
+    align-items: center;
+}
